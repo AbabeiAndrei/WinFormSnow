@@ -1,0 +1,9 @@
+c:\users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe.config
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csprojResolveAssemblyReference.cache
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.Cache
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.exe
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.pdb
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.MainForm.resources

@@ -1,0 +1,8 @@
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\bin\Release\WinFormTest.exe.config
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\bin\Release\WinFormTest.exe
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\bin\Release\WinFormTest.pdb
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Release\WinFormTest.Form1.resources
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Release\WinFormTest.Properties.Resources.resources
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.Cache
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Release\WinFormTest.exe
+C:\Users\andrei.ababei\documents\visual studio 2015\Projects\WinFormTest\WinFormTest\obj\Release\WinFormTest.pdb
